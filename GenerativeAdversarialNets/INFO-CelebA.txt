@@ -1,0 +1,3 @@
+To reproduce the experiments, download the aligned and cropped faces from
+http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+and apply 'make_dataset.py' on them to create a .h5-file, which can then be read by 'CelebA32_dcgan.py' or 'CelebA64_dcgan.py'

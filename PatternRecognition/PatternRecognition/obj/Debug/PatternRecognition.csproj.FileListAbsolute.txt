@@ -1,0 +1,9 @@
+c:\users\tim\documents\visual studio 2015\Projects\PatternRecognition\PatternRecognition\bin\Debug\PatternRecognition.exe.config
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\PatternRecognition\PatternRecognition\obj\Debug\PatternRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\PatternRecognition\PatternRecognition\obj\Debug\PatternRecognition.Properties.Resources.resources
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\PatternRecognition\PatternRecognition\obj\Debug\PatternRecognition.csproj.GenerateResource.Cache
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\PatternRecognition\PatternRecognition\obj\Debug\PatternRecognition.PatternRecognition.resources
+C:\Users\Tim\Documents\visual studio 2015\Projects\PatternRecognition\PatternRecognition\bin\Debug\PatternRecognition.exe
+C:\Users\Tim\Documents\visual studio 2015\Projects\PatternRecognition\PatternRecognition\bin\Debug\PatternRecognition.pdb
+C:\Users\Tim\Documents\visual studio 2015\Projects\PatternRecognition\PatternRecognition\obj\Debug\PatternRecognition.exe
+C:\Users\Tim\Documents\visual studio 2015\Projects\PatternRecognition\PatternRecognition\obj\Debug\PatternRecognition.pdb
